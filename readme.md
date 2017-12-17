@@ -49,9 +49,7 @@ Goal:
 The functionality of the website will be located in language map plugin — the user would be able to use language map as a keyboard for typing in a message.
 
 ## Structure
-Text window→ Keyboard→ Language map plugin
-Text window→ Games→ Language learning game(Kahoot, Duolinguo, )
-Text window→ Facetiming → ????WHAT MECAHNICS Text window → Save to dictionary option
+LogIn→ Chatroom→ Keyboard
 
 ## Skeleton
 ![yougetme](https://user-images.githubusercontent.com/25942653/34084999-7377e3d0-e357-11e7-8d67-3d5ebc70e63a.jpg)
