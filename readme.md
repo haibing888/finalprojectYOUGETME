@@ -58,4 +58,4 @@ LogIn→ Chatroom→ Keyboard
 ![lovebirds_research](https://user-images.githubusercontent.com/25942653/34085015-b9f383dc-e357-11e7-808a-075949fb150e.png)
 
 ## Reflection
-Reflect on and articulate specific issues you had with your midterm. Elaborate on these issues and explain how what you learned from the midterm has impacted your design thinking and execution on the final project.
+One of the key components to of design thinking for our team was empathy. Originally the idea of the website for following "one size fits all concept". During the user research phase we realized that couples and friends are much better audience for this product, because they would message each other and learn each others language anyway. And by using YouGetMe they would kill two birds with one stone. Obviously, figuring out how firebase works was a challenge. Even through login function now works we doubt we would be able to build out more than that.
