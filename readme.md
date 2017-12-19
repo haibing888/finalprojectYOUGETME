@@ -51,6 +51,8 @@ The functionality of the website will be located in language map plugin — the 
 ## Structure
 LogIn→ Chatroom→ Keyboard
 
+You are first introduced to the LogIn screen. Once you login, you can access the chatroom and find the keyboard to create the sentences you want.
+
 ## Skeleton
 ![yougetme](https://user-images.githubusercontent.com/25942653/34084999-7377e3d0-e357-11e7-8d67-3d5ebc70e63a.jpg)
 
